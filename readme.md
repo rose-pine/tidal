@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for TIDAL</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,35 +13,25 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+### Desktop
+
+1. Download <https://github.com/Mastermindzh/tidal-hifi>
+2. Download `theme.rosepine.css`
+3. On the menu bar, click "Settings"
+4. Navigate to the "Theming" tab
+5. Click the <kbd>CHOOSE FILES</kbd> button
+6. Select the downloaded `theme.rosepine.css` file
+7. From the "Current theme" dropdown, select `theme.rosepine`
+8. From the task bar, quit and then relaunch Tidal Hifi
+
+### Web
+
+Add the contents of `theme.rosepine.css` to a browser extension like Stylus targeting listen.tidal.com
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine with TIDAL](https://github.com/rose-pine/tidal/assets/44733677/7c9812b3-be67-4e0e-9b0c-84d9c46f19d4)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include [existing categories](https://rosepinetheme.com/themes)
-    - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
